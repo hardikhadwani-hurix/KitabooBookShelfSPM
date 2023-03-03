@@ -10,7 +10,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "KitabooBookShelfSPM",
-            targets: ["KitabooBookShelfSPM"]),
+            targets: ["KitabooBookShelfSPM","KitabooBookShelfFramework"]),
     ],
     dependencies: [
          .package(url: "https://github.com/hardikhadwani-hurix/KitabooSDKWithReader", from: "1.0.2"),

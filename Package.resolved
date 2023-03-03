@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "kitaboosdkwithreader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hardikhadwani-hurix/KitabooSDKWithReader",
+      "state" : {
+        "revision" : "c36705f42888eff1b40b19a704748721d0a04976",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "myfirstspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hardikhadwani-hurix/MyFirstSPM",
+      "state" : {
+        "revision" : "d8d817d6a956dc8c5480c5b9fb6422b8475a57d8",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}

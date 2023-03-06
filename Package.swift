@@ -18,7 +18,7 @@ let package = Package(
          // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [ 
-        .binaryTarget(name: "KitabooBookShelfFramework", url: "https://github.com/hardikhadwani-hurix/KitabooBookShelfSPM/releases/download/1.0.3/KitabooBookShelfFramework.xcframework.zip", checksum: "06d71a78e71b544d96702d49ea4597aedd2c24ab0a6083935c8f00fee838744f"),
+        .binaryTarget(name: "KitabooBookShelfFramework", url: "https://github.com/hardikhadwani-hurix/KitabooBookShelfSPM/releases/download/1.0.7/KitabooBookShelfFramework.xcframework.zip", checksum: "3c7b406a1d3d28ee23d29bf3d212abd27f844cb39edb45c3b9933b64ada47024"),
 
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.

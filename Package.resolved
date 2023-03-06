@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/hardikhadwani-hurix/KitabooSDKWithReader",
         "state": {
           "branch": null,
-          "revision": "b80c1a2a5ae81c80dc9d72a593c93e5dc3aa5eaf",
-          "version": "1.0.3"
+          "revision": "3900f887a8d2fce2efb9e6c5a810f442313c9fca",
+          "version": "1.0.4"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/hardikhadwani-hurix/MyFirstSPM",
         "state": {
           "branch": null,
-          "revision": "d8d817d6a956dc8c5480c5b9fb6422b8475a57d8",
-          "version": "1.2.0"
+          "revision": "15229b86387661d076824a6bfe890a746276b729",
+          "version": "1.2.1"
         }
       }
     ]

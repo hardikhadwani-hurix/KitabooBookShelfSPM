@@ -1,4 +1,4 @@
-// swift-tools-version: 5.7
+// swift-tools-version: 5.5
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -13,7 +13,7 @@ let package = Package(
             targets: ["KitabooBookShelfSPM","KitabooBookShelfFramework"]),
     ],
     dependencies: [
-         .package(url: "https://github.com/hardikhadwani-hurix/KitabooSDKWithReader", from: "1.0.2"),
+         .package(url: "https://github.com/hardikhadwani-hurix/KitabooSDKWithReader", from: "1.0.3"),
          // Dependencies declare other packages that this package depends on.
          // .package(url: /* package url */, from: "1.0.0"),
     ],

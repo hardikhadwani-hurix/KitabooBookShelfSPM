@@ -7,7 +7,7 @@
         "state": {
           "branch": null,
           "revision": "fde167731e74efcccb1e95da8d29cf2d1be0b730",
-          "version": "1.0.1"
+          "version": "1.0.2"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/hardikhadwani-hurix/KitabooSDKWithReader",
         "state": {
           "branch": null,
-          "revision": "accb280a6ae72d1d2b19b972fa2718598f9c11d8",
-          "version": "1.0.8"
+          "revision": "60d75756aaa39c988f6eabe6f5dd9e5b7b3d1084",
+          "version": "1.0.9"
         }
       }
     ]

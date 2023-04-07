@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KitabooReaderSDKSPM",
+        "repositoryURL": "https://github.com/hardikhadwani-hurix/KitabooReaderSDKSPM",
+        "state": {
+          "branch": null,
+          "revision": "fde167731e74efcccb1e95da8d29cf2d1be0b730",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "KitabooSDKWithReaderSPM",
+        "repositoryURL": "https://github.com/hardikhadwani-hurix/KitabooSDKWithReader",
+        "state": {
+          "branch": null,
+          "revision": "d00212b6a3d3cf4ca56e52398cac8ed3eb01f79b",
+          "version": "1.0.12"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
